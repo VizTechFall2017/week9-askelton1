@@ -23,6 +23,7 @@ var symbolPoints = [
     {angle: Math.PI * 0.25, r0: 30, r1: 70},
     {angle: Math.PI * 0.5, r0: 30, r1: 80},
     {angle: Math.PI * 0.75, r0: 30, r1: 70},
+
     {angle: Math.PI, r0: 30, r1: 80},
     {angle: Math.PI * 1.25, r0: 30, r1: 70},
     {angle: Math.PI * 1.5, r0: 30, r1: 80},

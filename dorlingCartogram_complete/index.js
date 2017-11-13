@@ -65,8 +65,8 @@ queue()
         .attr('r', function(d){
             return sizeScale(stateLookup.get(d.name))
         })
-        .attr('fill','purple')
-        .attr('fill-opacity',.7);
+        .attr('fill','blue')
+        .attr('fill-opacity',.5);
 
   });
 
